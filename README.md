@@ -1,1 +1,1 @@
-# SOLAR-ENERGY-UTILIZATION-C21
+# solar_power
